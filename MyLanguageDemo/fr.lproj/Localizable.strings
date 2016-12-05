@@ -1,0 +1,9 @@
+/* 
+  File.strings
+  MyLanguageDemo
+
+  Created by apple on 16/12/5.
+  Copyright © 2016年 YJS. All rights reserved.
+*/
+"Setting" = "La création";
+"Message" = "1. La langue des utilisateurs de recherche iOS d’abord créer (création de préférence — langue commune et dans la région des grands lacs)\n2. Vous si l’application des tests, ce qui permet à l’utilisateur de préférence avant la langue, une langue si l’application classeur contenant la lproj (suffixe est partie., titre ou descriptif, l’anglais et le français, a été simplifié à zh japonais et) dans l’affirmative, à savoir la langue par langue ne cessent de croître, la deuxième des préférences de créer. Les doubles emplois de ce processus.\n3. Une fois défini pour l’application du système. Lproj, pourrait servir de ressources classeur de localisation.";

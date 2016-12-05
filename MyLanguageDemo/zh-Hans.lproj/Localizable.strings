@@ -1,0 +1,9 @@
+/* 
+  File.strings
+  MyLanguageDemo
+
+  Created by apple on 16/12/5.
+  Copyright © 2016年 YJS. All rights reserved.
+*/
+"Setting" = "设置";
+"Message" = "1.iOS首先搜索用户的语言偏好设置(设置-通用-语言与地区)\n2.检测你的应用是否支持用户的语言，先用偏好设置的第一个语言，检测应用是否包含该语言对应的文件夹(后缀是.lproj，文件名部分，英语为en，中文简体为zh-Hans，日语为ja)如果存在，那就是该语言，否则用偏好设置第二个语言来匹配。重复该过程。\n3.一旦系统为应用确定了语言，对应的.lproj文件夹就会用作本地化资源。";

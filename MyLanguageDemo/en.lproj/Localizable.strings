@@ -1,0 +1,9 @@
+/* 
+  File.strings
+  MyLanguageDemo
+
+  Created by apple on 16/12/5.
+  Copyright © 2016年 YJS. All rights reserved.
+*/
+"Setting" = "Setting";
+"Message" = "1. The iOS first search the user's language preference Settings (Settings - general - language and regions)\n2. Check whether your application to support the user's language, with the first language preferences, detection application contains the corresponding language folders (suffix is. Lproj, filename part, English to en, Chinese simplified is useful - Hans, Japanese ja) as if there is, it is the language, with preference is set to match the second language. Repeat the process.\n3. Once the system is applied to determine the language, the corresponding. Lproj folder will be used as a localized resources.";
